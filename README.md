@@ -13,16 +13,22 @@ Currently, I am focused on improving my skills in Python, SQL, Power BI, and dat
 
 ## 🌐 Where to find me
 
+## 🌐 Where to find me
+
 <p align="left">
-  <a href="https://github.com/rickvieira-data">
-    <img src="https://img.shields.io/badge/GitHub-rickvieira-data-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@querydorick-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
+
+<a href="https://rickvieira-data.github.io/portfolio-dados/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/henrique-vieira-482b25370/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/@querydorick/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---
