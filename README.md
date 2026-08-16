@@ -13,8 +13,6 @@ Currently, I am focused on improving my skills in Python, SQL, Power BI, and dat
 
 ## 🌐 Where to find me
 
-## 🌐 Where to find me
-
 <p align="left">
 
 <a href="https://rickvieira-data.github.io/portfolio-dados/" target="_blank">
@@ -25,7 +23,7 @@ Currently, I am focused on improving my skills in Python, SQL, Power BI, and dat
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/@querydorick/" target="_blank">
+<a href="https://www.instagram.com/querydorick/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
