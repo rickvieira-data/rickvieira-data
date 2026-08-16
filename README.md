@@ -66,15 +66,6 @@ Currently, I am focused on improving my skills in Python, SQL, Power BI, and dat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickvieira-data&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvieira-data&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 My Philosophy
 
 > _"Turning data into insights, and insights into better decisions."_ 📊
